@@ -6,4 +6,8 @@ hey there
 adding line 5 
 HELL0 WORLD
 !!!!!
+## Development enviroment 
 
+Make sure you have JS knowledge
+run.index
+hello world
